@@ -12,7 +12,6 @@ Andrew's User Manual - Communicating with me
 
 ## What are some useful things to know in advance about your style?
 
-- I can be quiet at first, but once I get to know you, you can find me talking a lot.
 - I really enjoy digging in and actually using / reproducing anything technical to make sure I have a thorough understanding.
 - I work best in small groups and with people I know. I also work best when the task/project is clearly defined and the overall goal is explained.
 
