@@ -1,16 +1,32 @@
-### Hi there 👋
+# README
+Andrew's User Manual - Communicating with me
 
-<!--
-**drewhinksonn/drewhinksonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What are your primary goals as a human being?
 
-Here are some ideas to get you started:
+- Learn from people. Everyone can teach you something.
+- Help people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What do you want  us to know about your communication style?
+
+- I often enjoy reading and working async. 
+
+## What are some useful things to know in advance about your style?
+
+- I can be quiet at first, but once I get to know you, you can find me talking a lot.
+- I really enjoy digging in and actually using / reproducing anything technical to make sure I have a thorough understanding.
+- I work best in small groups and with people I know. I also work best when the task/project is clearly defined and the overall goal is explained.
+
+## How can you best work with me?
+
+- Be transparent, and honest. If I'm making a mistake, let me know. 
+- I like having things written down.
+
+## What are your pet peeves?
+
+- Rude people.
+- People that don't think they can learn any additional information/not willing to listen.
+
+## What are your self-perceived biggest shortcomings?
+
+- I like making sure I understand things, so I may ask questions that seem redundant.
+- If I don't start something right away, oftentimes I find myself postponing things. 
